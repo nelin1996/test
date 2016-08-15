@@ -1,0 +1,1583 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium",RTP 1 
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1,PT: RTP 1 tvg-logo="http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png/medium",RTP 1 
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1971.ts
+
+
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium",RTP 2 
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1,PT: RTP 2 tvg-logo="http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png/medium",RTP 2
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1970.ts
+
+
+#EXTINF:-1,PT: RTP 3
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1969.ts
+
+
+
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
+http://noscdn1.connectedviews.com:1935/live/sic.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1,PT: SIC tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC 
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1964.ts
+
+
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI 
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/KodiPortugal.pt.m3u8
+
+#EXTINF:-1,PT: TVI tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1055.ts
+
+
+
+
+#EXTINF:-1,PT: SIC NOTICIAS
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2053.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png/medium",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/Kodiportugal.pt.m3u8
+
+#EXTINF:-1,PT: TVI 24
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1054.ts
+
+
+
+#EXTINF:-1,PT: TVI FICCAO
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2051.ts
+
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-logo="http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium",EURONEWS PT
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+
+
+
+
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uuvqrt1436889894.png/medium",ECONÓMICO TV
+http://213.13.26.11:1935/live/etv_direto/KodiPortugal.pt.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium",PORTO CANAL
+http://213.13.26.13:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+
+
+
+#EXTINF:-1,PT: CMTV
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1965.ts
+
+
+#EXTINF:-1,PT: RTP MEMORIA
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2056.ts
+
+#EXTINF:-1,PT: RTP MADEIRA
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2055.ts
+
+
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1972.ts
+
+#EXTINF:-1,PT: Nat Geographic
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2067.ts
+
+#EXTINF:-1,PT: Nat Geo Wild
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2068.ts
+
+#EXTINF:-1,PT: Discovery HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2065.ts
+
+
+
+#EXTINF:-1,PT: TVCine 4 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1056.ts
+
+#EXTINF:0,TV CINE 4 (FHD)
+http://globe2.midomed.com:80/live/claudia/claudia/3524.ts
+
+#EXTINF:0,TV CINE 4 (SD)
+http://151.80.102.59:8000/live/5grandiptv915/67863345/806.ts
+
+#EXTINF:-1,PT: TVCine 3 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1057.ts
+
+#EXTINF:0,TV CINE 3 (SD)
+http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1101.ts
+
+#EXTINF:-1,PT: TVCine 2 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1058.ts
+
+#EXTINF:0,TV CINE 2 (FHD)
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2303.ts
+
+#EXTINF:0,TV CINE 2 (SD)
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1146.ts
+
+#EXTINF:-1,PT: TVCine 1 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1059.ts
+
+#EXTINF:0,TV CINE 1 (SD)
+http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1103.ts
+
+#EXTINF:-1,PT: TV Series
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1693.ts
+
+#EXTINF:-1,PT: FOX HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1694.ts
+
+#EXTINF:-1,PT: FOX Movies
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2063.ts
+
+#EXTINF:-1,PT: Fox Comedy
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2144.ts
+
+#EXTINF:-1,PT: FOX Crime HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2480.ts
+
+#EXTINF:-1,PT: FOX LIFE HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2064.ts
+
+#EXTINF:-1,PT: AXN HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1046.ts
+
+#EXTINF:-1,PT: AXN WHITE HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2061.ts
+
+#EXTINF:-1,PT: AXN BLACK HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2060.ts
+
+#EXTINF:-1,PT: SIC MULHER
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2054.ts
+
+#EXTINF:-1,PT: SIC K
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2052.ts
+
+#EXTINF:-1,PT: SyFy
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2474.ts
+
+#EXTINF:-1,PT: HollyWood SD/HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2479.ts
+
+
+#EXTINF:-1,PT: 24 Kitchen
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2487.ts
+
+#EXTINF:-1,PT: CM TV
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2078.ts
+
+#EXTINF:-1,PT: PFC
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2069.ts
+
+#EXTINF:-1,PT: TLC
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2389.ts
+
+#EXTINF:-1,PT: Odisseia
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2433.ts
+
+#EXTINF:-1,PT: MOV HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2432.ts
+
+#EXTINF:-1,ES: AXN HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/971.ts
+
+#EXTINF:-1,ES: AXN White HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/970.ts
+
+#EXTINF:-1,FR: TCM cinema
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2331.ts
+
+#EXTINF:-1,FR: Action HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1098.ts
+
+#EXTINF:-1,FR: Ciné FX
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1125.ts
+
+#EXTINF:-1,FR: Paramount Channel HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/721.ts
+
+#EXTINF:-1,FR: Cine+ Frisson HD.
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2656.ts
+
+#EXTINF:-1,FR: Cine+ Famiz HD.
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2657.ts
+
+#EXTINF:-1,FR: Cine+ Premier HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/718.ts
+
+#EXTINF:-1,FR: Cine+ Emotion HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/720.ts
+
+#EXTINF:-1,ES: FOX
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1669.ts
+
+#EXTINF:-1,ES: Fox HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2454.ts
+
+#EXTINF:-1,ES: Fox Life
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1024.ts
+
+#EXTINF:-1,ES: Telecinco
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2104.ts
+
+#EXTINF:-1,ES: LA SEXTA HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1670.ts
+
+#EXTINF:-1,ES: Canal+ HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2105.ts
+
+#EXTINF:-1,ES: Canal+ XTRA HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2176.ts
+
+#EXTINF:-1,ES: Canal+ Accion HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1675.ts
+
+#EXTINF:-1,ES: Canal+ Series HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2453.ts
+
+#EXTINF:-1,ES: Canal+ Estrenos HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1672.ts
+
+#EXTINF:-1,ES: Canal+ Comedia HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2504.ts
+
+#EXTINF:-1,ES: Canal+ Dcine HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/889.ts
+
+#EXTINF:-1,ES: Canal+ LIGA HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/890.ts
+
+
+#EXTINF:-1,ES: PARAMOUNT
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2448.ts
+
+#EXTINF:-1,ES: DCINE ESPANOL
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2447.ts
+
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2451.ts
+
+#EXTINF:-1,ES: SYFY HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2092.ts
+
+#EXTINF:-1,ES: HOLLYWOOD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1032.ts
+
+#EXTINF:-1,PT: Historia
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2431.ts
+
+#EXTINF:-1,PT: E! Entertaunment
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2483.ts
+
+#EXTINF:-1,PT: CINEMUNDO
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2059.ts
+
+#EXTINF:-1,PT: CBS Reality
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2066.ts
+
+#EXTINF:-1,PT: TV record
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1967.ts
+
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1968.ts
+
+
+#EXTINF:-1,PT: Cartoon NetWork
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2484.ts
+
+#EXTINF:-1,PT: PANDA BIGGS
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2073.ts
+
+#EXTINF:-1,PT: Canal Panda
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2075.ts
+
+#EXTINF:-1,PT: Disney Junior
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2071.ts
+
+#EXTINF:-1,PT: Disney Channel
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2070.ts
+
+#EXTINF:-1,ES: Disney Channel
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2183.ts
+
+#EXTINF:-1,ES: Disney Jr.
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2106.ts
+
+#EXTINF:-1,PT_CNN
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1392.ts
+#EXTINF:-1,PT_TV_RECORD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1393.ts
+#EXTINF:-1,PT_TV_GLOBO
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1390.ts
+#EXTINF:-1,PT_NICKELODEON
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts
+
+#EXTINF:-1,PT_CM_TV
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts
+
+#EXTINF:-1,PT_+_TVI
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1122.ts
+#EXTINF:-1,PT_PORTO_CANAL
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1130.ts
+#EXTINF:-1,PT_RTP_3
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/425.ts
+
+
+
+                                    #EXTINF:-1,[COLORlime]TEAM j2mf4 DESPORTO [/COLOR]
+                                                      http://0.0.0.0:1234
+
+
+#EXTINF:0,SPORT TV 1 (FHD)
+http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2325.ts
+
+#EXTINF:0,SPORT TV 1 (HD)
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts
+
+#EXTINF:0,SPORT TV 1 (SD)
+http://149.202.90.35:8080/live/6wR53llk86/6Xx2q7V7QB/1110.ts
+
+#EXTINF:-1,PT: Sport TV 1
+http://globiptv.com:8000/live/CLIENTX103/65sijod/858.ts
+
+#EXTINF:-1,PT: Sport TV 2 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/857.ts
+
+#EXTINF:-1,PT: Sport TV 3
+http://globiptv.com:8000/live/CLIENTX103/65sijod/856.ts
+
+#EXTINF:0,SPORT TV 3 (FHD)
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es2/es2/880.ts
+
+#EXTINF:0,SPORT TV 3 (SD)
+http://151.80.102.59:8000/live/5grandiptv915/67863345/1603.ts
+
+#EXTINF:-1,PT: Sport TV 4 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/855.ts
+
+#EXTINF:-1,PT: Sport TV 5
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2475.ts
+
+#EXTINF:0,SPORT TV 5 (SD)
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts
+
+#EXTINF:-1,PT: Benfica TV 1 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1090.ts
+
+#EXTINF:-1,PT: Benfica TV 1
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2542.ts
+
+#EXTINF:-1,PT: Benfica TV 2
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1966.ts
+
+#EXTINF:-1,PT: Sporting TV HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2476.ts
+
+#EXTINF:-1,PT: EuroSport 1 HD/SD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2481.ts
+
+
+
+#EXTINF:-1,PT: EUROSPORT HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1973.ts
+
+#EXTINF:-1,PT: Abola TV
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2486.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | USA : Fox Sports 1 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1318.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | USA : Fox Sports 2 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1317.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  Sky Sports HD 1
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1329.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  Sky Sport 2 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1334.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  Sky Sport 3 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1333.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  Sky Sport 4 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1332.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  Sky Sport 5 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1331.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK : Sky_Sport_F1_HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1325.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  Sky Sport News
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1330.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  BT Sport 1 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1338.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  BT Sport 2 HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1337.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  BT Sport ESPN
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1336.ts
+
+#EXTINF:-1,Team Kodi j2mf4 & Algas TV | UK :  BT Sport Europe HD
+http://namiptv.ddns.net:6969/live/facebook.com/groups/iptvfree/7/1335.ts
+
+#EXTINF:-1,UK_SKY_SPORT_F1
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1039.ts
+
+#EXTINF:-1,UK_SKY_SPORTS_NEWS_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1112.ts
+
+#EXTINF:-1,UK_SKY_SPORT_1_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1104.ts
+
+#EXTINF:-1,UK_SKY_SPORTS_1_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1044.ts
+
+#EXTINF:-1,UK_SKY_SPORTS_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1043.ts
+
+#EXTINF:-1,UK_SKY_SPORTS_3_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1042.ts
+
+#EXTINF:-1,UK_SKY_SPORTS_4_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1041.ts
+
+#EXTINF:-1,UK_SKY_SPORTS_5_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1040.ts
+
+#EXTINF:-1,UK_SKY_SPORT_2_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1097.ts
+
+#EXTINF:-1,UK_SKY_SPORT_3_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1096.ts
+
+#EXTINF:-1,UK_SKY_SPORT_4_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1094.ts
+
+#EXTINF:-1,UK_SKY_SPORT_5_HD
+http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1093.ts
+
+#EXTINF:-1,FR: KOMBAT SPORT HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1893.ts
+
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/835.ts
+
+#EXTINF:-1,FR: Infosport+
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1137.ts
+
+#EXTINF:-1,FR: OLTV
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2591.ts
+
+
+#EXTINF:-1,FR: Foot+ 24/24
+http://globiptv.com:8000/live/CLIENTX103/65sijod/884.ts
+
+#EXTINF:-1,FR: Ma Chaine Sport HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/738.ts
+
+#EXTINF:-1,ES: BeinSport
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2184.ts
+
+#EXTINF:-1,ES: Movistar MotoGP
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2182.ts
+
+#EXTINF:-1,ES: Movistar F1
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2181.ts
+
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/702.ts
+
+
+#EXTINF:-1,FR: BEINSPORT 2  HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/701.ts
+
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/988.ts
+
+#EXTINF:-1,SE: C More Tennis
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2564.ts
+
+#EXTINF:-1,DE: EUROSPORT
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1409.ts
+
+#EXTINF:-1,DE: Sportdigital HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1778.ts
+
+#EXTINF:-1,DE: Sky Sport 1+ HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2540.ts
+
+#EXTINF:-1,DE: Sport 1 US HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2202.ts
+
+#EXTINF:-1,DE: Sky Sports 1 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/321.ts
+
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/320.ts
+
+#EXTINF:-1,DE: SKY BUNDESLIGA HD 1
+http://globiptv.com:8000/live/CLIENTX103/65sijod/300.ts
+
+
+#EXTINF:-1,DE: Sport Time 1 HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/319.ts
+
+
+                                     #EXTINF:-1,[COLORlime]TEAM j2mf4 INTERNACIONAL[/COLOR]
+                                    
+                                                  http://0.0.0.0:1234
+
+CANAIS FR
+
+#EXTINF:-1,FR:EURONEWS
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/247.ts
+#EXTINF:-1,FR:FRANCE24
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/227.ts
+#EXTINF:-1,FR:BFM
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/246.ts
+#EXTINF:-1,FR:TV5_MONDE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/513.ts
+#EXTINF:-1,FR:ITELE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1747.ts
+#EXTINF:-1,FR:LCI
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2431.ts
+#EXTINF:-1,FR:ARTE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/248.ts
+#EXTINF:-1,FR:TF1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/214.ts
+#EXTINF:-1,FR:M6
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/215.ts
+#EXTINF:-1,FR:W9
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/216.ts
+#EXTINF:-1,FR:FRANCE2
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/217.ts
+#EXTINF:-1,FR:FRANCE3
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/218.ts
+#EXTINF:-1,FR:FRANCE4
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/219.ts
+#EXTINF:-1,FR:FRANCE5
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/220.ts
+#EXTINF:-1,FR:FRANCEO
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/221.ts
+#EXTINF:-1,FR:CANAL+
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/445.ts
+#EXTINF:-1,FR:CANAL+CINEMA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/193.ts
+#EXTINF:-1,FR:CANAL+FAMILY
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/194.ts
+#EXTINF:-1,FR:CANAL+SPORT
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/446.ts
+#EXTINF:-1,FR:CANAL+DECALE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1825.ts
+#EXTINF:-1,FR:CANAL+SERIES
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/195.ts
+#EXTINF:-1,FR:CINE+PREMIER
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/207.ts
+#EXTINF:-1,FR:CINE+FRISSON
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/200.ts
+#EXTINF:-1,FR:CINE+FAMIZ
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/210.ts
+#EXTINF:-1,FR:CINE+EMOTION
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/209.ts
+#EXTINF:-1,FR:OCS_MAX
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/196.ts
+#EXTINF:-1,FR:OCS_GEANTS
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/198.ts
+#EXTINF:-1,FR:OCS_CHOC
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/197.ts
+#EXTINF:-1,FR:ACTION
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/213.ts
+#EXTINF:-1,FR:13EME_RUE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/224.ts
+#EXTINF:-1,FR:TV_BREIZH
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1828.ts
+#EXTINF:-1,FR:POLAR
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/231.ts
+#EXTINF:-1,FR:SYFY
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/228.ts
+#EXTINF:-1,FR:SERIE_CLUB
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/237.ts
+#EXTINF:-1,FR:CHERIE25
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1386.ts
+#EXTINF:-1,FR:PARIS_PREMIERE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/223.ts
+#EXTINF:-1,FR:NORMANDIE_TV
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/249.ts
+#EXTINF:-1,FR:COMEDIE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/225.ts
+#EXTINF:-1,FR:D8
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1782.ts
+#EXTINF:-1,FR:D17
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/208.ts
+#EXTINF:-1,FR:HD1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1811.ts
+#EXTINF:-1,FR:RTL9
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/222.ts
+#EXTINF:-1,FR:TMC
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/251.ts
+#EXTINF:-1,FR:TEVA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/244.ts
+#EXTINF:-1,FR:NT1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/226.ts
+#EXTINF:-1,FR:NRJ12
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/253.ts
+#EXTINF:-1,FR:6TER
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/203.ts
+#EXTINF:-1,FR:WEO
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/243.ts
+#EXTINF:-1,FR:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/254.ts
+#EXTINF:-1,FR:DISNEY_CINEMA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1986.ts
+#EXTINF:-1,FR:DISNEY_XD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/3013.ts
+#EXTINF:-1,FR:DISNEY_JUNIOR
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/511.ts
+#EXTINF:-1,FR:GULLI
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/258.ts
+#EXTINF:-1,FR:PIWI
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1992.ts
+#EXTINF:-1,FR:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/257.ts
+#EXTINF:-1,FR:TELETOON
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1689.ts
+#EXTINF:-1,FR:CANALJ
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/11.ts
+#EXTINF:-1,FR:BOOMERANG
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/256.ts
+#EXTINF:-1,FR:TIJI
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/235.ts
+#EXTINF:-1,FR:MANGA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/259.ts
+#EXTINF:-1,FR:M6_MUSIC
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/204.ts
+#EXTINF:-1,FR:MTV_MUSIC
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2694.ts
+#EXTINF:-1,FR:MTV_Dance
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2696.ts
+#EXTINF:-1,FR:MTV_BASE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2697.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD1+
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2939.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/190.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD2
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/191.ts
+#EXTINF:-1,FR:BEIN_SPORTS_HD3
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/192.ts
+#EXTINF:-1,FR:EUROSPORT1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/858.ts
+#EXTINF:-1,FR:EQUIPE21
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1750.ts
+#EXTINF:-1,FR:EQUIDA_LIVE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/3004.ts
+#EXTINF:-1,FR:FOOT+24/24
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/263.ts
+#EXTINF:-1,FR:OLTV
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1781.ts
+#EXTINF:-1,FR:INFOSPORT+
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/199.ts
+#EXTINF:-1,FR:DISCOVERY_SCIENCE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/230.ts
+#EXTINF:-1,FR:DISCOVERY_HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/232.ts
+#EXTINF:-1,FR:SCIENCES_VIE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/229.ts
+#EXTINF:-1,FR:NATGEO_WILD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/233.ts
+#EXTINF:-1,FR:NATGEO
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/234.ts
+#EXTINF:-1,FR:PLANETE+_CI
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/239.ts
+#EXTINF:-1,FR:CHASSE_ET_PECHE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/212.ts
+#EXTINF:-1,FR:PLANETE_AE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1744.ts
+#EXTINF:-1,FR:PLANETE+
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/240.ts
+#EXTINF:-1,FR:TOUTE_L’HISTOIRE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1830.ts
+#EXTINF:-1,FR:ANIMAUX
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/236.ts
+#EXTINF:-1,FR:USHUAIA_TV
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/206.ts
+#EXTINF:-1,FR:VOYAGE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/205.ts
+
+
+CANAIS BE
+
+
+#EXTINF:-1,BE:LA_UNE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/507.ts
+#EXTINF:-1,BE:LA_DEUX
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/202.ts
+#EXTINF:-1,BE:LA_TROIS
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/201.ts
+#EXTINF:-1,BE:CLUB_RTL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/510.ts
+#EXTINF:-1,BE:RTL_TVI
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/508.ts
+#EXTINF:-1,BE:PLUG_RTL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/509.ts
+#EXTINF:-1,BE:EEN
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1765.ts
+#EXTINF:-1,BE:TELE_VESDRE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1728.ts
+
+
+CANAIS UK 
+
+
+
+#EXTINF:-1,UK:CNN_NEWS
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2383.ts
+#EXTINF:-1,UK:ITV1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/447.ts
+#EXTINF:-1,UK:ITV2
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/448.ts
+#EXTINF:-1,UK:ITV3
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/321.ts
+#EXTINF:-1,UK:ITV4
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/320.ts
+#EXTINF:-1,UK:MORE_4
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1813.ts
+#EXTINF:-1,UK:BBC1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/318.ts
+#EXTINF:-1,UK:BBC2
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/317.ts
+#EXTINF:-1,UK:DISNEY_CHANNEL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/286.ts
+#EXTINF:-1,UK:NICKELODEON
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/288.ts
+#EXTINF:-1,UK:DISNEY_XD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/950.ts
+#EXTINF:-1,UK:RTE_JR
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/322.ts
+#EXTINF:-1,UK:RTE1HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/323.ts
+#EXTINF:-1,UK:HIT_TV
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/3009.ts
+#EXTINF:-1,UK:SKY_ONE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/289.ts
+#EXTINF:-1,UK:SKY_TWO
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/285.ts
+#EXTINF:-1,UK:SKY_MOVIES_THRILLER
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/290.ts
+#EXTINF:-1,UK:SKY_MOVIES_SELECT
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/291.ts
+#EXTINF:-1,UK:SKY_MOVIES_PREMIERE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/293.ts
+#EXTINF:-1,UK:SKY_MOVIES_MODERN_GREAT
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/295.ts
+#EXTINF:-1,UK:SKY_MOVIES_FAMILY
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/309.ts
+#EXTINF:-1,UK:SKY_MOVIES_DRAMA_ROMANCE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/299.ts
+#EXTINF:-1,UK:SKY_MOVIES_COMEDY
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/311.ts
+#EXTINF:-1,UK:SKY_MOVIES_ACTION
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/300.ts
+#EXTINF:-1,UK:TRUE_MOVIES2
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1399.ts
+#EXTINF:-1,UK:CBS_DRAMA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1398.ts
+#EXTINF:-1,UK:CARTOON_NETWORK
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/1400.ts
+#EXTINF:-1,UK:SKY_ATLANTIC_HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/306.ts
+#EXTINF:-1,UK:TRUE_MOVIES1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/287.ts
+#EXTINF:-1,UK:ANIMAL_PLANETE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/314.ts
+#EXTINF:-1,UK:NATIONAL_GEOGRAPHY
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/312.ts
+#EXTINF:-1,UK:DISCOVERY
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/313.ts
+#EXTINF:-1,UK:HISTORY_CHANNEL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/284.ts
+#EXTINF:-1,UK:LIVING
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/319.ts
+#EXTINF:-1,UK:BT_SPORTS_2HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/281.ts
+#EXTINF:-1,UK:BT_SPORTS_1HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/282.ts
+#EXTINF:-1,UK:BOX_NATION
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/280.ts
+#EXTINF:-1,UK:ESPN_HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/279.ts
+#EXTINF:-1,UK:SKY_SPORTS_NEWS
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/271.ts
+#EXTINF:-1,UK:SKY_SPORTS_F1HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/272.ts
+#EXTINF:-1,UK:SKY_SPORTS_1HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/275.ts
+#EXTINF:-1,UK:SKY_SPORTS_2HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/274.ts
+#EXTINF:-1,UK:SKY_SPORTS_3HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/273.ts
+#EXTINF:-1,UK:SKY_SPORTS_4HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/776.ts
+#EXTINF:-1,UK:SKY_SPORTS_5HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/777.ts
+
+
+CANAIS US 
+
+
+#EXTINF:-1,US: E4_HD
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2784.ts
+#EXTINF:-1,US:FOX_SPORTS2
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2493.ts
+#EXTINF:-1,US:CNN_LIVE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2481.ts
+#EXTINF:-1,US:ABC_NEWS
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2494.ts
+#EXTINF:-1,US:NHL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2789.ts
+#EXTINF:-1,US:NBA_TV
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2478.ts
+#EXTINF:-1,US:NFL
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2490.ts
+#EXTINF:-1,US:HBO_ZONE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2489.ts
+#EXTINF:-1,US:HBO_SIGNATURE
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2487.ts
+#EXTINF:-1,US:BLOOMBERG
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2488.ts
+#EXTINF:-1,US:FOX_SPORTS1
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2495.ts
+#EXTINF:-1,US:SPORTS_NET
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2475.ts
+#EXTINF:-1,US:5_USA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2473.ts
+
+
+CANAIS CAN 
+
+
+#EXTINF:-1,CAN:TVA_TV
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2785.ts
+#EXTINF:-1,CAN:RDI_CANADA
+http://iptv-supplier.com:8000/live/210070886404/566a94fd44fc2/2783.ts
+
+
+
+
+
+                                     #EXTINF:-1,[COLORlime]TEAM j2mf4 MUSICA[/COLOR]
+                                    
+                                                  http://0.0.0.0:1234
+
+
+
+#EXTINF:-1,Vevo TV 1 HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo TV 2 HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo TV 3 HD
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seebo.com.au/wp-content/uploads/2015/03/Channel_logos/ip/for_site/1HD.png", 1HD
+http://ger1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+
+#EXTINF:0, HEAVY METAL TV
+rtmp://70.166.98.130:1935/hmtv/myStream
+
+#EXTINF:0 group-title="ONE", ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:0 group-title="ONE", ONE 2 UHD
+http://rtmp.one.by:1400
+
+#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO Music FHD
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+
+#EXTINF:0 group-title="VEVO" tvg-logo="http://houseofnot.com/images/shared/vevo.png", VEVO 1 FHD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+
+
+#EXTINF:0 group-title="Virgin", Virgin TV SD
+rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:0 group-title="Virgin", Virgin TV Radio
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+
+#EXTINF:0 group-title="Russia", PIK TV HD
+rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv
+
+
+
+
+
+                                            #EXTINF:-1,[COLORlime]TEAM j2mf4 CINEMA[/COLOR]
+
+                                                        http://0.0.0.0:1234
+
+
+#EXTINF:-1,AR: BEINMOVIES HD 1
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2441.ts
+
+#EXTINF:-1,AR: BEINMOVIES HD 3
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2443.ts
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , AVATAR - 2009
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer1/ondemand/AVTR.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , BLADE 2 - 2002
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE2.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , BLADE TRINITY - 2004
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE3.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , CAPITÃO AMÉRICA: GUERRA CIVIL - 2016
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer2/ondemand/CAPTAMRC3.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , DEADPOOL - 2016
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer2/ondemand/DEADPOL.mp4
+
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , 90 MINUTOS NO PARAÍSO - 2016
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , ADULTOS INEXPERIENTES - 2015
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer2/ondemand/ADLTSINEXPRTES.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , A ESTRADA 47 - 2015
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer1/ondemand/AESTD47.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , 007: OPERAÇÃO SKYFALL - 2012
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer2/ondemand/0072012SKYFL.mp4
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eBt0nySA0Dc/T2ZlrT7boHI/AAAAAAAABWk/H7sK_MxPXIU/s1600/assistir+filmes+online.png" group-title="FILMES" , + VELOZES + FURIOSOS - 2003
+http://servercrazzy.crazzy.com:80/RedeCanais/RedeCanais/RCFServer1/ondemand/VLZEFROSOS02.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Captive - 2016
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/CPTVE.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Cinderela
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/CNDRLA.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Cinquenta tons de cinzas
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/CNQNTNSDCNZ.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Como Sobreviver a um Ataque de Zumbi
+https://lh3.googleusercontent.com/fO9Az82dicBsT0GSN12bJ0GC8SLpgdoGzZBUBxdbZh4=m22
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Dragon Blade
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/DRGNBLDE.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Espírito de Lobo
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/ESPRTODLBO.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Exodo - Deuses e Reis
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/EXDDUSERS.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Exorcistas do Vaticano
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/EXRCSTDVTCN.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Hitman: Agente 47
+https://lh3.googleusercontent.com/kikwMJ-ePt5jNpKxF9pxH49bLkHFeRnbAI_kI7Xr_Ew=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Ferias Frustadas
+https://3.bp.blogspot.com/ekpaMiaj8glIz0zieW-aqGSWECeqPhcizaSW4HcBweQ=m37
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Frankenstein vs. A Múmia
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/FRNKSTNVSMUMIA.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",JOGOS VORAZES: A ESPERANCA
+https://3.bp.blogspot.com/n-gSBWU2fYa2gH_5L3Tuhctg9eZ-ZyNLO7Ayik-A5B8MbdhEFfI=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Jogos Vorazes Parte 2
+http://doc.is-saved.org:25889/fact/FNPCfim.fome.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Lar Doce Inferno
+https://lh3.googleusercontent.com/KEVekf159C274pQ3K-X8ICcOdM-lrV37z4Kmheu-5K0=m22
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Liga da JustiÃ§a: Deuses e Monstros
+https://lh3.googleusercontent.com/XIfzlJ6lLYSgRrXKz6mxzWiLGJwDuQ1ZoHQqCtiAVYE=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Mad Max Estrada da FÃÂºria
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/MDMXESTDFUR.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Malevola
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/MDMXESTDFUR.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Mate-me Mais Uma Vez
+https://46554e9f543704933d5f1b58e536a0364d64ff9e.googledrive.com/host/0B8rFZEBil7hReFFzZWtwcW4za0U/Mate-meMaisumaVez.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Maze Runner Ã¢â¬â Prova de Fogo
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/MZRNRCROMR.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",MEU PASSADO ME CONDENA 2
+https://lh3.googleusercontent.com/zDkuHGeuugw6F7p4J5UhRCzGvkiHxVENp1Z9CzA2eag=m22
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Meu Passado Me Condena 2 - 2015
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/MEUPSDMCNDNA2.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Missao: Impossivel - NaÃ§ao Secreta
+https://lh3.googleusercontent.com/JHOdcu3CI4Y8d8LuXVbJLlqKQdukMuVIh1HXvxMS8P4=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Na Toca do Tigre
+https://lh3.googleusercontent.com/ntNApGz-vis3TuHqyZTdnr84MX7tExstn6G2ihB_3Ts=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",NOCAUTE
+https://46554e9f543704933d5f1b58e536a0364d64ff9e.googledrive.com/host/0B8rFZEBil7hReFFzZWtwcW4za0U/Nocaute.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Brilho da Vida
+https://lh3.googleusercontent.com/yvzgflU7KRzxhyLdWzov0BRxkqI5Oi9GN-WngKK_m3o=m22
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Bom dinossauro
+https://46554e9f543704933d5f1b58e536a0364d64ff9e.googledrive.com/host/0B8rFZEBil7hReFFzZWtwcW4za0U/osdinossauros.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Destino de Jupiter
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/ODSTNDJPTR.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Dia do Galo
+https://46554e9f543704933d5f1b58e536a0364d64ff9e.googledrive.com/host/0B8rFZEBil7hReFFzZWtwcW4za0U/ODIADOGALO.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Cara Perfeito
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OCARPRFTO.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Final da Turnê - 2016
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OFNLDTRN.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Mestre dos Jogos 2 - 2015
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OMSTRDSJGS2.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Exterminador do Futuro: Gï¿½nesis
+https://lh3.googleusercontent.com/VqSLHZyH9_caezHz_rsX6Qu2ppDv3-uwD1ybgO72-Dc=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Fim da Turne
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OFNLDTRN.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Pequeno PrÃÂ­ncipe
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OPQNPRNCP.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Presente 2016
+https://bb67f6da5253572911fb8833e4b1b0298f716322.googledrive.com/host/0B4qZzv_MkPwQcEhuYWtEWENhWGc/OPRSENT.mp4?download
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O SETIMO FILHO
+https://lh3.googleusercontent.com/VefKgbRTt2pyuRL4XyjCZUbJF8bhqsRQqHkAPBVOMw8=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",OS ULTIMOS ODIADOS
+https://46554e9f543704933d5f1b58e536a0364d64ff9e.googledrive.com/host/0B8rFZEBil7hReFFzZWtwcW4za0U/osoitosodiados.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Ultimo Cacador de Bruxas Dub
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OULTMCADRDBRX.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",O Ultimo Cacador de Bruxas Leg
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/OULTMCADRDBRXLEG.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Os Seis RidÃ­culos
+https://lh3.googleusercontent.com/Ysw5Hk_WSMhouyMzNA6621ecESNN7k53UMWpfHesEYg=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",OS CAVALEIROS DO ZODIACO - A LENDA DO SANTUARIO
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/OCDZFILME06.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",OS 33
+https://lh3.googleusercontent.com/i38sQ9--MeI4rZRqaR68Y8l7V6BtT3mxtSRrLrJ4OIY=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",OSSO DURO
+https://lh3.googleusercontent.com/SX3zYp203sw0N9MMIAMcEEU0svKjjlVUpyw-UT6qflQ=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Pegando Fogo
+https://lh3.googleusercontent.com/xdAV4300W_2x5jkNPyxB3G4tIA-g6DSnOv6vvtu4L_A=m18
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Quarteto Fantastico
+https://lh3.googleusercontent.com/Nqv7JHjoPgN_mESyZSHJKYoYfG3TS7CzYLbe3q51ZqA=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Que Horas Ela Volta? - 2015
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/QUHRSELAVLT.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",SNIPER AMERICANO
+https://lh3.googleusercontent.com/WCuGeMKGxmp_c2dDjIN-44ux3KRzQ_E71j18_QhK50Y=m18
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Suburra
+https://bb67f6da5253572911fb8833e4b1b0298f716322.googledrive.com/host/0B4qZzv_MkPwQcEhuYWtEWENhWGc/SUBRA.mp4?download
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Sr. Sherlock Holmes - 2016
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/SRSHRLCKHLMS.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Ted 2
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/TED2.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Terremoto - A Falha de San Andreas
+https://lh3.googleusercontent.com/AOZl7vvJoVJ6IKeAwbuUAfYqAY1y9_utYvfhWxAUDCk=m37
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Um Amor a Cada Esquina
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/UMAMRACDESQUNA.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Vai Que Cola: O Filme - 2015 | http://www.portalfama.com.br/wp-content/uploads/2015/10/Vai-que-cola-o-filme-poster-portal-fama-011015.jpg | https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/VAIQCLOFILME.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",VELOZES E FURIOSOS 7
+https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/VLZEFROSOS07.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5H1jeWzudW8/VmgXeVJX8AI/AAAAAAAAB1s/geSPK2FPSzw/s1600/FILMES.png" group-title="FILMES 2015/2016",Vigilantes da Guerra - 2016
+https://googledrive.com/host/0B8Bn5QmKvSLeRTVDRGVoTWNkTVk/VGLANTSDGRRA.mp4
+
+
+                                          
+
+
+                                       
+
+                                           #EXTINF:-1,[COLORlime]TEAM j2mf4 ADULTOS[/COLOR]
+                                                      http://0.0.0.0:1234
+
+
+#EXTINF:0,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,+18 VENUS
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1653.ts
+
+#EXTINF:-1,+18 playboy
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1803.ts
+
+#EXTINF:-1,+18 Hot
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2007.ts
+
+#EXTINF:-1,+18 Hustler HD
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2008.ts
+
+#EXTINF:-1,+18 Adult_15
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2006.ts
+
+#EXTINF:-1,+18 Adult_14
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2005.ts
+
+#EXTINF:-1,+18 Adult_13
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2004.ts
+
+#EXTINF:-1,+18 Adult_12
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2003.ts
+
+#EXTINF:-1,+18 Adult_11
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2002.ts
+
+#EXTINF:-1,+18 Adult_10
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2001.ts
+
+#EXTINF:-1,+18 Adult_9
+http://globiptv.com:8000/live/CLIENTX103/65sijod/2000.ts
+
+#EXTINF:-1,+18 Adult_8
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1999.ts
+
+#EXTINF:-1,+18 Adult_7
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1998.ts
+
+#EXTINF:-1,+18 Adult_6
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1513.ts
+
+#EXTINF:-1,+18 Adult_5
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1459.ts
+
+#EXTINF:-1,+18 Adult_4
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1460.ts
+
+#EXTINF:-1,+18 Adult_3
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1461.ts
+
+#EXTINF:-1,+18 Adult_2
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1465.ts
+
+#EXTINF:-1,+18 Adult_1
+http://globiptv.com:8000/live/CLIENTX103/65sijod/1476.ts
+
+#EXTINF:-1,18 XX 1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1654.ts
+#EXTINF:-1,18 XX 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1655.ts
+#EXTINF:-1,18 XX 3
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1656.ts
+#EXTINF:-1,18 XX 4
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1657.ts
+#EXTINF:-1,18 XX 5
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1658.ts
+#EXTINF:-1,18 XX 6
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1659.ts
+#EXTINF:-1,18 XX 7
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1660.ts
+#EXTINF:-1,18 XX 8
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1661.ts
+#EXTINF:-1,18 XX 9
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1662.ts
+#EXTINF:-1,18 XX 15
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1668.ts
+#EXTINF:-1,18 XX 14
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1667.ts
+#EXTINF:-1,18 XX 13
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1666.ts
+#EXTINF:-1,18 XX 12
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1665.ts
+#EXTINF:-1,18 XX 11
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1664.ts
+#EXTINF:-1,18 XX 10
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1663.ts
+#EXTINF:-1,XX: Pink Erotic 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1669.ts
+#EXTINF:-1,XX: Hot
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1670.ts
+#EXTINF:-1,XX: Dusk Deluxe
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1671.ts
+#EXTINF:-1,XX: BabeStation Club
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1672.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1228.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1226.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-3
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1225.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-4
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1224.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-5
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1223.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-6
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1222.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-7
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1221.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-8
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1220.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-9
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1219.ts
+#EXTINF:-1,X-Primafila-Hot-Club-10
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1227.ts
+#EXTINF:-1,18 X 1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1654.ts
+#EXTINF:-1,18 XX 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1655.ts
+#EXTINF:-1,18 XX 3
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1656.ts
+#EXTINF:-1,18 XX 4
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1657.ts
+#EXTINF:-1,18 XX 5
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1658.ts
+#EXTINF:-1,18 XX 6
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1659.ts
+#EXTINF:-1,18 XX 7
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1660.ts
+#EXTINF:-1,18 XX 8
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1661.ts
+#EXTINF:-1,18 XX 9
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1662.ts
+#EXTINF:-1,18 XX 15
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1668.ts
+#EXTINF:-1,18 XX 14
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1667.ts
+#EXTINF:-1,18 XX 13
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1666.ts
+#EXTINF:-1,18 XX 12
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1665.ts
+#EXTINF:-1,18 XX 11
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1664.ts
+#EXTINF:-1,18 XX 10
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1663.ts
+#EXTINF:-1,XX: Pink Erotic 2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1669.ts
+#EXTINF:-1,XX: Hot
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1670.ts
+#EXTINF:-1,XX: Dusk Deluxe
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1671.ts
+#EXTINF:-1,XX: BabeStation Club
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1672.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-1
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1228.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-2
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1226.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-3
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1225.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-4
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1224.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-5
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1223.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-6
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1222.ts 
+#EXTINF:-1,XX-Primafila-Hot-Club-7
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1221.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-8
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1220.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-9
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1219.ts
+#EXTINF:-1,XX-Primafila-Hot-Club-10
+http://62-210-214-31.rev.poneytelecom.eu:5890/live/mariam/mariam/1227.ts
+#EXTINF:-1,PORTUGAL:VENUS TV
+http://151.80.102.59:8000/live/5grandiptv915/67863345/1586.ts
+#EXTINF:-1,PORTUGAL:HOT
+http://151.80.102.59:8000/live/5grandiptv915/67863345/1585.ts
+#EXTINF:-1,PORTUGAL:PLAYBOY TV
+http://151.80.102.59:8000/live/5grandiptv915/67863345/1584.ts 
+#EXTINF:-1,????
+http://37.194.94.195:81/udp/239.1.6.32:1234
+#EXTINF:-1,??????
+http://37.194.94.195:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://37.194.94.195:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://37.194.94.195:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://37.194.94.195:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://37.194.94.195:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://37.194.94.195:81/udp/239.1.6.40:1234 
+#EXTINF:-1,Channel x 1
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./144.ts
+#EXTINF:-1,Channel x 2
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./1062.ts
+#EXTINF:-1,Channel x 3
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./1061.ts
+#EXTINF:-1,Hot Club
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./883.ts
+#EXTINF:-1,Dorcel
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./859.ts
+#EXTINF:-1,Hustler HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./67.ts
+#EXTINF:-1,Private x
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./741.ts
+#EXTINF:-1,PASSIE X/Redlight
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL./198.ts
+#EXTINF:-1, X Movies
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1068.ts
+#EXTINF:-1, X - Sarina
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1069.ts
+#EXTINF:-1, X - Redlight HD
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1070.ts
+#EXTINF:-1,X - Playboy TV
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/346.ts
+#EXTINF:-1, X - Hustler HD
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/596.ts
+#EXTINF:-1,X - Dorcel HD
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/598.ts
+#EXTINF:-1, X - Brazzers TV Europe
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/597.ts
+#EXTINF:-1, X -
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/587.ts
+#EXTINF:-1, X - SCT HQ
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/461.ts
+#EXTINF:-1, X - HOT 2
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/460.ts
+#EXTINF:-1, X - HOT 3
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/122.ts
+#EXTINF:-1,X - HOT 4
+http://df1-premiere.zapto.org:8000/live/Manuel/Coke/151.ts
+#EXTINF:-1,XX: hot
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/1469.ts
+#EXTINF:-1,XX: venus
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/921.ts
+#EXTINF:-1,XX SETOSENTO TV
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/923.ts
+#EXTINF:-1,XX CENTO X CONTO
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/924.ts
+#EXTINF:-1,XX: dusk dulex
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/925.ts
+#EXTINF:-1,XX: mvh hard
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/927.ts
+#EXTINF:-1,XX: HUSTLER HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/777.ts
+#EXTINF:-1,XX:REDLIGHT HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/928.ts
+#EXTINF:-1,XX:JASMIN TV
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/929.ts
+#EXTINF:-1,XX: DORCEL
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/1471.ts
+#EXTINF:-1,XX: Primafila Hot Club 2 HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/771.ts
+#EXTINF:-1,X: Primafila Hot Club 3 HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/770.ts
+#EXTINF:-1,X: Primafila Hot Club 4 HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/769.ts
+#EXTINF:-1,XX: Primafila Hot Club 5 HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/768.ts
+#EXTINF:-1,XX: Primafila Hot Club 6 HD
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/767.ts
+#EXTINF:-1,XX: PINK EROTIC 4
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/1470.ts
+#EXTINF:-1,XX: PINK EROTIC 3
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/774.ts
+#EXTINF:-1,XX: PINK EROTIC 2
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/775.ts
+#EXTINF:-1,XX: Canday x
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/725.ts
+#EXTINF:-1,XX: PENTHOUSE HD1
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/726.ts
+#EXTINF:-1,XX: Visit-X Live
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/727.ts
+#EXTINF:-1,XX: SCT
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/728.ts
+#EXTINF:-1,XX: PRIVATE
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/729.ts
+#EXTINF:-1,XX: PLAYBOY
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/730.ts
+#EXTINF:-1,XX: PINKOTV
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/731.ts
+#EXTINF:-1,XX: KOREA3
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/732.ts
+#EXTINF:-1,XX: KOREA2
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/733.ts
+#EXTINF:-1,XX: KOREA1
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/734.ts
+#EXTINF:-1,XX: TGIRLS
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/736.ts
+#EXTINF:-1,XX: PINK EROTIC 1
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/735.ts
+#EXTINF:-1,XX: brazzers tv
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/737.ts
+#EXTINF:-1,XX: franch lover tv
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/738.ts
+#EXTINF:-1,X: PASSION XX 18+
+http://s1.ukhdtv.com:7860/live/F5TruHhTCZ/lQxQmgb13M/634.ts 
+#EXTINF:-1,+18 VENUS
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1653.ts
+#EXTINF:-1,+18 playboy
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1803.ts
+#EXTINF:-1,+18 PRIVATE TV
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1517.ts
+#EXTINF:-1,+18 JASMIN TV
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1516.ts
+#EXTINF:-1,+18 Hot
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2007.ts
+#EXTINF:-1,+18 Brazzers HD
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2009.ts
+#EXTINF:-1,+18 Hustler HD
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2008.ts
+#EXTINF:-1,+18 Adult_15
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2006.ts
+#EXTINF:-1,+18 Adult_14
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2005.ts
+#EXTINF:-1,+18 Adult_13
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2004.ts
+#EXTINF:-1,+18 Adult_12
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2003.ts
+#EXTINF:-1,+18 Adult_11
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2002.ts
+#EXTINF:-1,+18 Adult_10
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2001.ts
+#EXTINF:-1,+18 Adult_9
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/2000.ts
+#EXTINF:-1,+18 Adult_8
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1999.ts
+#EXTINF:-1,+18 Adult_7
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1998.ts
+#EXTINF:-1,+18 Adult_6
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1513.ts
+#EXTINF:-1,+18 Adult_5
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1459.ts
+#EXTINF:-1,+18 Adult_4
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1460.ts
+#EXTINF:-1,+18 Adult_3
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1461.ts
+#EXTINF:-1,+18 Adult_2
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1465.ts
+#EXTINF:-1,+18 Adult_1
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1476.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 1
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1079.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 2
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1176.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 3
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1080.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 4
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1081.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 5
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1514.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB  6
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1515.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 7
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1760.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 8
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1761.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 9
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1762.ts
+#EXTINF:-1,IT: PRIMAFILA HOT CLUB 10
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/1763.ts
+#EXTINF:-1,EX YU: +18 pink_erotica 1
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/793.ts
+#EXTINF:-1,EX YU: +18 pink_erotica 2
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/792.ts
+#EXTINF:-1,EX YU: +18 pink_erotica3
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/791.ts
+#EXTINF:-1,EX YU: +18 pink_erotica 4
+http://globiptv.com:8000/live/hiKQq9JZN3/Xc1bsJqpU4/790.ts
+#EXTINF:-1, Frenchlover
+http://37.235.247.15:81/udp/225.50.70.7:1234
+#EXTINF:-1,FREE XTV
+http://37.235.247.15:81/udp/225.50.70.8:1234
+#EXTINF:-1,CANDY TV
+http://37.235.247.15:81/udp/225.50.70.1:1234
+#EXTINF:-1,Ð  Ð½?ÑŒ
+http://37.235.247.15:81/udp/225.50.70.3:1234
+#EXTINF:-1,Pycck Ð½o
+http://37.193.78.146:81/udp/239.1.6.32:1234
+#EXTINF:-1,ÐÐ¾ Ð¾ Ðš Ð±
+http://37.193.78.146:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://37.193.78.146:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://37.193.78.146:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://37.193.78.146:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://37.193.78.146:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://37.193.78.146:81/udp/239.1.6.40:1234
+#EXTINF:-1, ???
+http://188.68.31.69:2323/udp/224.244.244.97:19993
+#EXTINF:-1,Bunga Bunga
+http://46.99.168.118:9981/stream/channelid/2049406648?ticket=5CD6BA23EF13C7E90A955E729349389786E8BFBB&profile=pass 
+#EXTINF:-1,BIZARRE
+http://46.99.168.118:9981/stream/channelid/1039367070?ticket=0E362C752371154899CAB0610B3E592888103F7F&profile=pass
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3420.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3421.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3422.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3423.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3424.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3425.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3426.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3427.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3428.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3429.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3430.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3431.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3432.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3433.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3434.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3435.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3436.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3437.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3438.mp4
+#EXTINF:-1,XXL
+http://drainmainvein.com/media/videos/mp4/3439.mp4
+
+Copyright © 2016 - IPTV Kodi j2mf4
